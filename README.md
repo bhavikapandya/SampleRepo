@@ -1,5 +1,5 @@
 
-/*this is master*/
+/*this is branch1*/
 
 
 public Account createAccount(String name)  //method to create account
