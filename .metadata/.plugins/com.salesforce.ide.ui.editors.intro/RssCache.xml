@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+
+<channel>
+	<title>Salesforce Developers Blogs</title>
+	
+	<link>https://developer.salesforce.com/blogs</link>
+	<description>Elevating developer skills and connecting with the Salesforce Developers community</description>
+	<lastBuildDate>Wed, 17 Jun 2015 20:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://feeds.feedburner.com/SforceBlog" rel="self" type="application/rss+xml"/><feedburner:info uri="sforceblog"/><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/><feedburner:emailServiceId>SforceBlog</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/SforceBlog" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FSforceBlog" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><item>
+		<title>Does Imposter Syndrome exist for software engineering roles?</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/mAtOE1bH9LM/imposter-syndrome-exist-software-engineering-roles.html</link>
+		<comments>https://developer.salesforce.com/blogs/engineering/2015/06/imposter-syndrome-exist-software-engineering-roles.html#comments</comments>
+		<pubDate>Wed, 17 Jun 2015 20:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[rmathew]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://25.37141</guid>
+		<description><![CDATA[<a href="https://developer.salesforce.com/blogs/engineering/2015/06/imposter-syndrome-exist-software-engineering-roles.html"><img align="right" hspace="5" width="150" src="https://res.cloudinary.com/hzxejch6p/image/upload/v1429138276/ImposterHeader_yf0cxi.jpg" class="alignright wp-post-image tfe" alt="" title="" /></a>Examining imposter syndrome from a tester/quality engineer perspective. ]]></description>
+				<content:encoded><![CDATA[<p><em><img class="alignnone wp-image-37171" alt="" src="https://res.cloudinary.com/hzxejch6p/image/upload/v1429138276/ImposterHeader_yf0cxi.jpg" width="700" height="388" />Imposter syndrome</em> has been described as a psychological phenomenon in which people are unable to internalize their accomplishments. It’s something that has been highlighted for women in technology, because many highly intelligent women suffer from this despite their great achievements.</p>
+<p dir="ltr">As a software engineer, I have taken on different roles throughout my career &#8211; Software Developer, Software Consultant, Software Tester, Software Quality Engineer, and so on. As an engineer at Salesforce, I am proud of the products my teams are delivering. It takes a team of people with varied expertise to deliver the enterprise services our customers love &#8211; Product Managers, Designers, Developers, Quality Engineers, Performance Engineers, Security, Technical Writers, Operations, and so on.</p>
+<p dir="ltr">There are a lot of articles in the technology industry about how Testers/Quality engineers need to battle with different groups to do their jobs. They can feel like second class citizens in their groups or teams. Other groups, such as Product Managers or Developers, get most of the credit for the success of a product. However, testers get the blame when something goes wrong: The most popular question is, “Why wasn’t this bug found during testing?”</p>
+<p dir="ltr">I always felt good about my accomplishments at Salesforce until I started reading these articles. I kept wondering why I felt <a class="overlay" href="http://res.cloudinary.com/hzxejch6p/image/upload/v1433278579/ImposterSyndromFeature_kub62l.jpg"><img class="alignright size-medium wp-image-40991" alt="ImposterSyndromFeature_kub62l" src="http://res.cloudinary.com/hzxejch6p/image/upload/v1433278579/ImposterSyndromFeature_kub62l.jpg" width="120" height="120" /></a>good about my accomplishments at Salesforce in spite of the industry trend indicating the opposite for Testers. I started doubting my accomplishments at Salesforce and wondered whether they were related to luck. Was I under some illusion that things were great at Salesforce?</p>
+<p dir="ltr">That was when I also started hearing and reading about Imposter Syndrome. It was an interesting coincidence to read about the challenges in the testing industry and women in technology communities around the same time.</p>
+<p dir="ltr">I decided I had to look at the facts and understand why my accomplishments deserved the credit they received. I came up with a list based on the interactions I had with people at Salesforce:</p>
+<ul>
+<li>
+<p dir="ltr">Product Managers included me in their planning and prioritization discussions</p>
+</li>
+<li>
+<p dir="ltr">Developers and Architects included me in their design and architectural discussions</p>
+</li>
+<li>
+<p dir="ltr">Developers worked with me to come up with an efficient testing strategy</p>
+</li>
+<li>
+<p dir="ltr">Developers reviewed my test plans during design or before coding so they could fix design issues earlier on</p>
+</li>
+<li>
+<p dir="ltr">Developers did pair-programing on certain features so product and integration test code were checked in together</p>
+</li>
+<li>
+<p dir="ltr">Developers were really happy if automated integration tests were available before they checked in their changes so they had higher confidence with their code and less rework</p>
+</li>
+<li>
+<p dir="ltr">Developers asked me to review their code</p>
+</li>
+<li>
+<p dir="ltr">Developers reviewed my code related to test automation</p>
+</li>
+<li>
+<p dir="ltr">Technical writers asked me to provide content as well as review the documentation they developed</p>
+</li>
+<li>
+<p dir="ltr">Developers didn’t start on new features/user stories until I was available to do the required reviews and testing</p>
+</li>
+<li>
+<p dir="ltr">Developers would also do test automation to support the testing efforts</p>
+</li>
+<li>
+<p dir="ltr">Product Managers checked in with me if we had to meet a business deadline, so we could discuss reducing feature scope</p>
+</li>
+<li>
+<p dir="ltr">Product Managers and Developers asked me to do product demos</p>
+</li>
+<li>
+<p dir="ltr">Support teams asked for help to investigate and follow up on customer issues</p>
+</li>
+<li>
+<p dir="ltr">Operations teams asked for help to improve monitoring of services</p>
+</li>
+<li>All disciplines would work together to support each other to meet the business goals</li>
+</ul>
+<p dir="ltr">I realized that Salesforce Management gave credit to all disciplines including Testers/Quality engineers for the successful products. Even before Agile and Scrum became mainstream, Salesforce had feature teams which comprised of all functional disciplines. The management knew it took a group of different experts to deliver the products our customers love. I realized that my contributions as a Quality Engineer at Salesforce mattered, and I should cherish my accomplishments.</p>
+<p dir="ltr">In summary, I believe every engineering discipline has its challenges. People in those disciplines might feel differently about their accomplishments. Whether it is imposter syndrome or not, every company needs to provide an environment where every engineer’s contribution is valued and recognized, regardless of their particular discipline.</p>
+<p dir="ltr">Here at Salesforce, we’re making a definite effort to recognize  all disciplines and the importance of their contributions from planning to customer support. Check out a previous post about Quality Engineering at Salesforce: <a href="https://developer.salesforce.com/blogs/engineering/2014/05/quality_engineers_and_developers_cant_we_all_just_get_along.html">https://developer.salesforce.com/blogs/engineering/2014/05/quality_engineers_and_developers_cant_we_all_just_get_along.html</a></p>
+<p>We’re also hiring! Visit<a href="http://www.salesforce.com/tech"> http://www.salesforce.com/tech</a> to find your #dreamjob.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=mAtOE1bH9LM:VYfT9994OEM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=mAtOE1bH9LM:VYfT9994OEM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=mAtOE1bH9LM:VYfT9994OEM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=mAtOE1bH9LM:VYfT9994OEM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=mAtOE1bH9LM:VYfT9994OEM:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=mAtOE1bH9LM:VYfT9994OEM:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=mAtOE1bH9LM:VYfT9994OEM:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/mAtOE1bH9LM" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>https://developer.salesforce.com/blogs/engineering/2015/06/imposter-syndrome-exist-software-engineering-roles.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://developer.salesforce.com/blogs/engineering/2015/06/imposter-syndrome-exist-software-engineering-roles.html</feedburner:origLink></item>
+		<item>
+		<title>Understanding System Events In Lightning Components – Part 2</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/D9HhLtXnhwQ/understanding-system-events-lightning-components-part-2.html</link>
+		<comments>http://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-system-events-lightning-components-part-2.html#comments</comments>
+		<pubDate>Wed, 17 Jun 2015 14:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[Raja Rao DV]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Lightning Components]]></category>
+		<category><![CDATA[Lightning Events]]></category>
+		<category><![CDATA[salesforce]]></category>
+		<category><![CDATA[System Events]]></category>
+
+		<guid isPermaLink="false">http://26.119961</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-system-events-lightning-components-part-2.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/referredin/image/upload/v1434512258/scenario1_u98g5o.png" class="alignright wp-post-image tfe" alt="" title="" /></a>Lightning Components framework fires several system events. In this blog we'll look into what set of System events are fired in what scenario.  This helps us keep business logic in appropriate event handlers.]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p dir="ltr">In the earlier <a href="https://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-system-events-lightning-components-part-1.html">Part 1</a> post, we looked into what System events are and how they work in Lightning Components framework. In this part, we&#8217;ll look into which events are fired and in what order for couple of common scenarios. Understanding this will help us know where to keep our business logic and avoid taking performance hit. So let’s take a look at various scenarios.</p>
+<p>&nbsp;</p>
+<h2>Scenario 1: Initial Component Creation</h2>
+<p dir="ltr">This is the basic scenario of component creation without any data update from the server. The framework fires:</p>
+<ol>
+<li>
+<p dir="ltr"><strong>init</strong> event to allow us to set some value,</p>
+</li>
+<li>
+<p dir="ltr">Then it fires <strong>render</strong> to allow us to customize the markup</p>
+</li>
+<li>
+<p dir="ltr">Finally it fires <strong>afterRender</strong> to allow us to further change an already rendered component.</p>
+</li>
+</ol>
+<p dir="ltr"><img class="aligncenter wp-image-119981" alt="" src="http://res.cloudinary.com/referredin/image/upload/v1434512258/scenario1_u98g5o.png" width="302" height="290" /></p>
+<p>&nbsp;</p>
+<h3>Things To Note:</h3>
+<p dir="ltr"><strong>Every event in Scenario 1 is fired only once!</strong> so, keep your business logic that needs to run only once in these handlers for example:</p>
+<ol>
+<li>
+<p dir="ltr">Handle making a server call when the component is loaded in “init”</p>
+</li>
+<li>
+<p dir="ltr">Similarly handle animation in afterRender.</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<h2>Scenario 2: When value of a component attribute is changed</h2>
+<p dir="ltr">When a component’s value changes due to user action like a button click or some other event like component/application event. In this case the framework fires:</p>
+<ol>
+<li>
+<p dir="ltr"><strong>valueChange</strong> to allow us to listen to some attribute to do something.</p>
+</li>
+<li>
+<p dir="ltr">Then it fires <strong>rerender</strong> (not “render”) to let us update component upon rerendering of the component</p>
+</li>
+<li>
+<p dir="ltr">Eventually <strong>doneRendering</strong> (not “afterRender”) is called when it’s done rerendering</p>
+</li>
+</ol>
+<p dir="ltr"><img class="aligncenter wp-image-119991" alt="" src="http://res.cloudinary.com/referredin/image/upload/v1434512258/scenario2_azxyq5.png" width="315" height="284" /></p>
+<p>&nbsp;</p>
+<h3>Things To Note:</h3>
+<p dir="ltr">This scenario is run whenever any attribute value of the component is changed. <strong>So these are run multiple times</strong>!</p>
+<ul>
+<li>
+<p dir="ltr">Keep any logic that needs to be updated whenever there is a change.</p>
+</li>
+<li>
+<p dir="ltr">Use Helper to centralize logic in “render” + “rerender” or “afterRender” + “doneRendering”</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Scenario 3: When Apex call is made to update data</h2>
+<p dir="ltr">When we make an Apex call using $A.enqueueAction(), the framework fires:</p>
+<ol>
+<li>
+<p dir="ltr"><strong>waiting</strong> event to allow us to show visual indication like “waiting..” or a “spinner” to the user</p>
+</li>
+<li>
+<p dir="ltr"><strong>doneWaiting</strong> event is triggered to allow us to hide any visual indication</p>
+</li>
+<li>
+<p dir="ltr"><strong>valueChange</strong> is fired <em><strong>ONLY IF</strong> </em>the callback updates some value</p>
+</li>
+<li>
+<p dir="ltr"><strong>rerender</strong> if a value is changed  just like in Scenario 2</p>
+</li>
+<li>
+<p dir="ltr"><strong>doneRendering</strong> is eventually called just like in Scenario 2</p>
+</li>
+</ol>
+<p dir="ltr"><img class="aligncenter wp-image-120171" alt="" src="http://res.cloudinary.com/referredin/image/upload/v1434551652/scenario3_yghywo.png" width="327" height="380" /></p>
+<h3>Things To Note:</h3>
+<ol>
+<li><strong>waiting</strong> and <strong>doneWaiting</strong> are always fired whenever we use  $A.enqueueAction()</li>
+<li>However <strong>valueChange</strong>, <strong>rerender</strong> and <strong>doneRendering</strong> are only fired if our business logic changes some attribute value of the component.</li>
+</ol>
+<p>&nbsp;</p>
+<h2>Scenario 4: When a component is deleted</h2>
+<p dir="ltr">Framework fires an unrender event when the component is deleted.</p>
+<p dir="ltr"><img class="aligncenter wp-image-120011" alt="" src="http://res.cloudinary.com/referredin/image/upload/v1434512258/scenario4_l4vmki.png" width="273" height="112" /></p>
+<h2>Summary</h2>
+<ol>
+<li>
+<p dir="ltr">Different set of system events are fired for different scenarios</p>
+</li>
+<li>
+<p dir="ltr">Some set of events are triggered only once (those in Scenario 1 and Scenario 4), whereas others are triggered multiple times (those in Scenario 2 and Scenario 3).</p>
+</li>
+<li>
+<p dir="ltr"><a href="https://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-javascript-controllers-versus-helpers-lightning-components.html" target="_blank">Use Helper to refactor </a>and keep logic across scenarios. For example: if you want to animate when the component shows up (scenario 1) and also when it’s updated(scenario 2), you can keep the logic of “afterRender” and “doneRendering” in a Helper.</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Note: This blog covers only a subset of system events that are most commonly used. There are several other System events like <strong>valueDestroy</strong>, <strong>locationChange</strong> and so on.  You can see all of them in your-salesforce-instance/auradocs reference app that runs inside your org.</p>
+<p>If you have any questions, please post it in the comment or ping me at: <a href="https://twitter.com/rajaraodv" target="_blank">@rajaraodv</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=D9HhLtXnhwQ:HpEiae3TRr0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=D9HhLtXnhwQ:HpEiae3TRr0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=D9HhLtXnhwQ:HpEiae3TRr0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=D9HhLtXnhwQ:HpEiae3TRr0:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=D9HhLtXnhwQ:HpEiae3TRr0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=D9HhLtXnhwQ:HpEiae3TRr0:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=D9HhLtXnhwQ:HpEiae3TRr0:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/D9HhLtXnhwQ" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-system-events-lightning-components-part-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-system-events-lightning-components-part-2.html</feedburner:origLink></item>
+		<item>
+		<title>Lightning Components: Creating a Rating Component using SVG</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/_fg13TUZDPw/lightning-components-creating-rating-component-using-svg.html</link>
+		<comments>http://developer.salesforce.com/blogs/developer-relations/2015/06/lightning-components-creating-rating-component-using-svg.html#comments</comments>
+		<pubDate>Tue, 16 Jun 2015 18:30:51 +0000</pubDate>
+		<dc:creator><![CDATA[Christophe Coenraets]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://26.119501</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/developer-relations/2015/06/lightning-components-creating-rating-component-using-svg.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/hzxejch6p/image/upload/v1434466427/rating-orange_hmh83l.png" class="alignright wp-post-image tfe" alt="" title="" /></a>In this new era of customer and employee engagement, the ability of rating things, services, and people is everywhere. So I thought it would be useful to create a rating component for Lightning. Why SVG? Rating components are sometimes implemented by swapping images to represent the star&#8217;s selected and unselected state. Using SVG is a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In this new era of customer and employee engagement, the ability of rating things, services, and people is everywhere. So I thought it would be useful to create a rating component for Lightning.</p>
+<h2>Why SVG?</h2>
+<p>Rating components are sometimes implemented by swapping images to represent the star&#8217;s selected and unselected state. Using SVG is a more elegant and flexible solution: not only because the stars will scale naturally to any size without pixelation, but also because you have full programatic access to the vector paths. For example, you can programmatically change the fill color of the star, manipulate its opacity, change its stroke width and color, etc. You can expose these vector styles as attributes to create a very versatile Lightning Component. For example, the component shared in this article can be used like this:</p>
+<pre>&lt;c:Rating/&gt;</pre>
+<p><img src="http://res.cloudinary.com/hzxejch6p/image/upload/v1434466427/rating-orange_hmh83l.png" class="alignnone wp-image-119551" width="369" height="70" style="margin-left:32px"></p>
+<pre>&lt;c:Rating colorOn="#00A1E0" colorOff="#EEEEEE"/&gt;</pre>
+<p><img src="http://res.cloudinary.com/hzxejch6p/image/upload/v1434466487/rating-blue_hcfrzk.png" class="alignnone wp-image-119571" width="369" height="70" style="margin-left:32px"></p>
+<pre>&lt;c:Rating colorOn="#64E000" stroke="#000000" strokeWidth="3"/&gt;</pre>
+<p><img src="http://res.cloudinary.com/hzxejch6p/image/upload/v1434466510/rating-green_iiupeu.png" class="alignnone wp-image-119581" width="369" height="70" style="margin-left:32px"></p>
+<h2>Component Event</h2>
+<p>The rating component also provides a good example of defining a Component Event so that the component’s user can register an event handler like this:</p>
+<pre>&lt;c:Rating change="{!c.myChangeHandler}"/&gt;</pre>
+<p>To make this work:</p>
+<ol>
+<li>Create a lightning event of type component named RatingChangeEvent and implemented as follows:
+<pre>
+&lt;aura:event type="COMPONENT"&gt;
+    &lt;aura:attribute name="rating" type="integer"/&gt;
+&lt;/aura:event&gt;
+</pre>
+</li>
+<li>In the Rating component, register the event like this (indicating that the component may fire this event and that an event handler can be attached using an attribute named <strong>change</strong>):
+<pre>
+&lt;aura:registerEvent name="change" type="c:RatingChangeEvent"/&gt;
+</pre>
+</li>
+<li>In the component or app using the Rating component, register an event handler like this:
+<pre>&lt;c:Rating change="{!c.myChangeHandler}"/&gt;</pre>
+</li>
+</ol>
+<h2>Example</h2>
+<p>As an example, I added the rating component to the recruiting app I shared yesterday. Check out the end result in this video:</p>
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/q9rygVuoKZo?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<h2>Installation and Source Code</h2>
+<p><span style="line-height: 1.5em">Follow the steps below to install the application in your own org:</span></p>
+<ol style="line-height: 1.5em">
+<li>Enable Lightning Components in your new Developer Org: In Setup, click <strong>Develop &gt; Lightning Components</strong>, check the <strong>Enable Lightning Components</strong> checkbox, and click <strong>Save</strong>.</li>
+<li>Click <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1a000000MoY4">this link</a> to install the application using an unmanaged package, then click <strong>Continue</strong>, <strong>Next</strong>, <strong>Next</strong>, <strong>Install</strong>.</li>
+<li>Open the Developer Console</li>
+<li>Click <strong>File &gt; Open Lightning Resources</strong> in the menu, select <strong>RatingTestApp &gt; APPLICATION</strong> in the dialog, and click the <strong>Open Selected button</strong></li>
+<li>Click <strong>Preview</strong> in the code editor (upper right corner)</li>
+</ol>
+<p>At the time of this writing, there is a <a href="http://salesforce.stackexchange.com/questions/77459/including-svg-in-a-lightning-component">bug</a> that prevents you from using the &lt;svg&gt; tag in the component definition. The simple workaround is to define the svg content in a text node, and to use the component&#8217;s renderer to grab that text representation and inject it as actual svg. See the Rating component for the details.<br />
+&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=_fg13TUZDPw:HJTcYVILlJE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=_fg13TUZDPw:HJTcYVILlJE:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=_fg13TUZDPw:HJTcYVILlJE:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=_fg13TUZDPw:HJTcYVILlJE:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=_fg13TUZDPw:HJTcYVILlJE:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=_fg13TUZDPw:HJTcYVILlJE:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=_fg13TUZDPw:HJTcYVILlJE:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/_fg13TUZDPw" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/developer-relations/2015/06/lightning-components-creating-rating-component-using-svg.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/developer-relations/2015/06/lightning-components-creating-rating-component-using-svg.html</feedburner:origLink></item>
+		<item>
+		<title>Know Thy Salesforce Field Indexes for Fast Reports, List Views, and SOQL</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/zNc0nUkvzYw/know-thy-salesforce-field-indexes-fast-reports-list-views-soql.html</link>
+		<comments>http://developer.salesforce.com/blogs/engineering/2015/06/know-thy-salesforce-field-indexes-fast-reports-list-views-soql.html#comments</comments>
+		<pubDate>Tue, 16 Jun 2015 17:37:36 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Bobrowski]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[architect]]></category>
+		<category><![CDATA[Performance]]></category>
+		<category><![CDATA[SOQL]]></category>
+
+		<guid isPermaLink="false">http://25.42281</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/engineering/2015/06/know-thy-salesforce-field-indexes-fast-reports-list-views-soql.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/hzxejch6p/image/upload/c_scale,e_shadow,w_640/v1434131569/indexed_fields_zhmxvv.png" class="alignright wp-post-image tfe" alt="Salesforce field indexes" title="Salesforce field indexes" /></a>Creating selective, optimizable filter conditions that target indexed fields is key when you want to run fast Salesforce reports, list views, and SOQL queries. But how do you know which fields in your database have indexes? Read this short blog post to learn the easiest way to identify both standard and custom fields that have the indexes.]]></description>
+				<content:encoded><![CDATA[<p>Building fast Salesforce reports, list views, and SOQL queries is easily achievable, even when they target very large objects (say, greater than one million records), as long as you follow this basic best practice:</p>
+<p style="padding-left: 30px;">Create efficient Salesforce reports, list views, and SOQL queries by including at least one selective filter condition that uses optimizable operators and references fields that have indexes.</p>
+<p>If you aren&#8217;t familiar with the specifics of this best practice or the basics of Salesforce query optimization and tuning, please make sure to <a title="Salesforce Developer blog posts about query optimization" href="https://developer.salesforce.com/search?q=query%20performance%20optimizer">read these other interesting blog posts</a> that provide you with the necessary background.</p>
+<h1>Identifying Salesforce fields that have an index</h1>
+<p>Indexes in a database are like the index in a book&#8211;they help you find what you are looking for fast. When you&#8217;re designing filters for a report, list view, or SOQL query, you can confirm that your filter condition fields have indexes by checking the field lists on an object&#8217;s detail page. Notice that the Indexed column clearly indicates whether a field has an index.</p>
+<p><img class="alignnone wp-image-42321" title="Salesforce field indexes" alt="Salesforce field indexes" src="http://res.cloudinary.com/hzxejch6p/image/upload/c_scale,e_shadow,w_640/v1434131569/indexed_fields_zhmxvv.png" width="649" height="326" /></p>
+<p>You might recall that the Salesforce documentation and the <a title="Database Query &amp; Search Optimization Cheat Sheet" href="http://help.salesforce.com/help/pdfs/en/salesforce_query_search_optimization_developer_cheatsheet.pdf">Database Query &amp; Search Optimization Cheat Sheet</a> note standard field indexes and certain types of custom fields that the Salesforce Platform indexes by default (e.g., Master-Detail fields). Apart from these field types, you might also notice other fields with indexes. So how&#8217;d these custom indexes get there? There are a couple of ways custom indexes come to exist.</p>
+<p>One way that custom indexes get created is by Salesforce&#8217;s auto-indexer. The platform constantly analyzes custom index candidates, and when it sees that a custom index would make a noticeable difference in the response time for one or more queries, it automatically creates the index for you. Cool!</p>
+<p>Another other way custom indexes appear is even simpler&#8211;someone in your org might have proactively logged a case with Salesforce Support requesting a custom index to help the response time for a query. You can request a custom index too (and should) when you are working with large objects and know that an index will help your application perform more efficiently and faster.</p>
+<h1>Summary</h1>
+<p>So remember, fast scalable reports, list views, and SOQL queries use selective filter conditions with optimizable operators that reference indexed fields. Here are a few related blog posts and articles that you don&#8217;t want to miss if you want to learn more about this best practice.</p>
+<h1>Related Resources</h1>
+<ul>
+<li><a title="Maximizing the Performance of Force.com SOQL, Reports, and List Views" href="https://developer.salesforce.com/blogs/engineering/2013/07/maximizing-the-performance-of-force-com-soql-reports-and-list-views.html">Maximizing the Performance of Force.com SOQL, Reports, and List Views</a></li>
+<li><a title="Developing Selective Force.com Queries through the Query Resource Feedback Parameter" href="https://developer.salesforce.com/page/Developing_Selective_Force.com_Queries_through_the_Query_Resource_Feedback_Parameter_Pilot">Developing Selective Force.com Queries through the Query Resource Feedback Parameter</a></li>
+<li><a title="Collecting Selectivity Statistics for Force.com Queries" href="https://developer.salesforce.com/blogs/engineering/2013/09/collecting-selectivity-statistics-for-force-com-queries.html">Collecting Selectivity Statistics for Force.com Queries</a></li>
+<li><a title="Force.com Query Optimizer Secrets You Can Use Today" href="https://developer.salesforce.com/blogs/engineering/2013/12/force-com-query-optimizer-secrets-you-can-use-today.html">Force.com Query Optimizer Secrets You Can Use Today</a></li>
+</ul>
+<h1>About the Author</h1>
+<p><a title="Follow Steve Bobrowski on Twitter" href="https://twitter.com/sbob909">Steve Bobrowski</a> is an Architect Evangelist within the Technical Enablement team of the salesforce.com Customer-Centric Engineering group. The team’s mission is to help customers understand how to implement technically sound Salesforce solutions. Check out all of the resources that this team maintains on the <a title="Salesforce Architect Core Resources" href="https://developer.salesforce.com/page/Architect_Core_Resources">Architect Core Resources</a> page of the Salesforce Developer network.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zNc0nUkvzYw:_drWwbscYIU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zNc0nUkvzYw:_drWwbscYIU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zNc0nUkvzYw:_drWwbscYIU:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=zNc0nUkvzYw:_drWwbscYIU:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zNc0nUkvzYw:_drWwbscYIU:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=zNc0nUkvzYw:_drWwbscYIU:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zNc0nUkvzYw:_drWwbscYIU:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/zNc0nUkvzYw" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/engineering/2015/06/know-thy-salesforce-field-indexes-fast-reports-list-views-soql.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/engineering/2015/06/know-thy-salesforce-field-indexes-fast-reports-list-views-soql.html</feedburner:origLink></item>
+		<item>
+		<title>Lightning Components: Creating a Carousel Component</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/gh7Z-442088/creating-carousel-lightning-component.html</link>
+		<comments>http://developer.salesforce.com/blogs/developer-relations/2015/06/creating-carousel-lightning-component.html#comments</comments>
+		<pubDate>Mon, 15 Jun 2015 19:22:39 +0000</pubDate>
+		<dc:creator><![CDATA[Christophe Coenraets]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://26.118811</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/developer-relations/2015/06/creating-carousel-lightning-component.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/hzxejch6p/image/upload/v1434381458/candidate2_o6lu45.jpg" class="alignright wp-post-image tfe" alt="" title="" /></a>Lightning Components comes with a series of ready-to-use components. If the component you are looking for is not available out-of-the-box (or on the AppExchange), you can easily build your own: You can build components from scratch, or you can Lightningify existing third-party components that were not originally built for Lightning. In this article, I’ll share [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>
+<p><img src="http://res.cloudinary.com/hzxejch6p/image/upload/v1434381458/candidate2_o6lu45.jpg" class="alignnone wp-image-119371" width="320" height="568" style="float:left;margin:0 12px 0 0"></p>
+<p><img src="http://res.cloudinary.com/hzxejch6p/image/upload/v1434381428/candidate1_cibes8.jpg" class="alignnone wp-image-119381" width="320" height="568" style="margin:0"></p>
+</div>
+<p><span style="line-height: 1.5em">Lightning Components comes with a series of ready-to-use components. If the component you are looking for is not available out-of-the-box (or on the <a href="https://appexchange.salesforce.com/results?filter=15">AppExchange</a>), you can easily build your own: You can build components from scratch, or you can <em>Lightningify</em> existing third-party components that were not originally built for Lightning. In this article, I’ll share a <em>Lightningified</em> version of the the popular <a href="http://kenwheeler.github.io/slick/">Slick Carousel</a>. In the example used for this article, the carousel provides a more immersive User Experience to browse through a list of candidates as part of a recruiting app.</span></p>
+<p>Check out the end result in this video:</p>
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/D5qe3FX_8pM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<h2>Architecture</h2>
+<p>The component is implemented as follows:</p>
+<p><span></p>
+<pre>&lt;aura:component controller="CandidateController" implements="force:appHostable"&gt;
+
+    &lt;ltng:require styles="/resource/slick/slick.css,/resource/slick/slick-theme.css"	
+        scripts="/resource/jquery,/resource/slick/slick.min.js"
+        afterScriptsLoaded="{!c.doInit}"/&gt;
+    
+	&lt;aura:attribute name="contacts" type="Contact[]"/&gt;
+
+    &lt;div class="carousel"&gt;
+		&lt;aura:iteration items="{!v.contacts}" var="contact"&gt;
+            &lt;c:CandidatePage contact="{!contact}"/&gt;
+        &lt;/aura:iteration&gt;
+	&lt;/div&gt;
+   
+&lt;/aura:component&gt;</pre>
+<p></span></p>
+<h3>Highlights:</h3>
+<ul>
+<li><strong>&lt;ltng:require&gt;</strong> is used to load jQuery and the Slick Carousel jQuery plugin (js and css files)</li>
+<li>Even though the carousel was not built natively as a Lightning Component, you are still building and using it &#8220;the Lightning way&#8221;: using the Lightning iterator, nesting Lightning components (CandidatePage), using Lightning attributes and events, etc.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Installation Instructions</h2>
+<p><span style="line-height: 1.5em">Follow the steps below to install the component in your own org:</span></p>
+<h3>Step 1: Install the Application</h3>
+<ol style="line-height: 1.5em">
+<li>Enable Lightning Components in your new Developer Org: In Setup, click <strong>Develop &gt; Lightning Components</strong>, check the <strong>Enable Lightning Components</strong> checkbox, and click <strong>Save</strong>.</li>
+<li>Click <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1a000000MkNf">this link</a> to install the application using an unmanaged package, then click <strong>Continue</strong>, <strong>Next</strong>, <strong>Next</strong>, <strong>Install</strong>.</li>
+</ol>
+<h3>Step 2: Import Data</h3>
+<p><span style="line-height: 1.5em">You currently have to disable Lightning Components for the Data Import Wizard to work correctly when importing csv files. To disable Lightning Components: In Setup, click <strong>Develop &gt; Lightning Components</strong>, uncheck the <strong>Enable Lightning Components</strong> checkbox, and click <strong>Save</strong></span>.</p>
+<ol style="line-height: 1.5em">
+<li>Save <a href="http://coenraets.org/apps/candidates.csv">candidates.csv</a> on your local file system</li>
+<li>In Salesforce&#8217;s Setup Mode, select <strong>Administer</strong> &gt; <strong>Data Management</strong> &gt; <strong>Data Import Wizard</strong></li>
+<li>Click <strong>Launch Wizard</strong></li>
+<li>Select <strong>Accounts and Contacts</strong></li>
+<li>Click <strong>Add New Records</strong></li>
+<li>Drag <strong>candidates.csv</strong> to the upload area</li>
+<li>Click <strong>Next</strong>, <strong>Next</strong>, and <strong>Start Import</strong></li>
+</ol>
+<h3>Step 3: Add the Candidates Component to the Salesforce1 Menu</h3>
+<ol>
+<li>Re-enable Lightning Components in your new Developer Org: In Setup, click Develop &gt; Lightning Components, check the Enable Lightning Components checkbox, and click Save.</li>
+<li>In <strong>Setup</strong>, select <strong>Administer &gt; Mobile Administration &gt; Mobile Navigation</strong></li>
+<li>Select <strong>Candidates</strong> in the <strong>Available</strong> list</li>
+<li>Click the <strong>Add</strong> button to add the Candidates tab to the <strong>Selected</strong> list</li>
+<li>Click the <strong>Up</strong> button to move the Candidates tab closer to the top of the menu</li>
+<li>Click <strong>Save</strong></li>
+</ol>
+<h3>Step 4: Test the Component in the Salesforce1 Application</h3>
+<ol>
+<li>In Salesforce, remove the part of the URL that comes immediately after salesforce.com and append <strong>/one/one.app</strong> to the URL immediately after salesforce.com</li>
+<li>This starts the Salesforce1 Application simulator</li>
+<li>Click the menu button in the upper left corner</li>
+<li>Select <strong>Candidates</strong> in the menu</li>
+<li>Swipe left and right to navigate through the list of candidates</li>
+<li>Click the candidate&#8217;s name to view the candidate&#8217;s standard details page</li>
+<li>Click the Back button to go back to the carousel</li>
+</ol>
+<h2>Summary</h2>
+<p>As a relatively new component framework, Lightning Components may not yet have all the components you are looking for available out-of-the-box. When a specific component is not available, <em>Lightningifying</em> an existing third party component can be a great alternative to building the component from scratch.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=gh7Z-442088:um0FTgGZh3s:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=gh7Z-442088:um0FTgGZh3s:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=gh7Z-442088:um0FTgGZh3s:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=gh7Z-442088:um0FTgGZh3s:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=gh7Z-442088:um0FTgGZh3s:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=gh7Z-442088:um0FTgGZh3s:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=gh7Z-442088:um0FTgGZh3s:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/gh7Z-442088" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/developer-relations/2015/06/creating-carousel-lightning-component.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/developer-relations/2015/06/creating-carousel-lightning-component.html</feedburner:origLink></item>
+		<item>
+		<title>1:1 Consultations at Salesforce World Tour NYC</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/2shDvnPUJd0/11-consultations-added-salesforce-world-tour-new-york-developer-zone-2.html</link>
+		<comments>http://developer.salesforce.com/blogs/developer-relations/2015/06/11-consultations-added-salesforce-world-tour-new-york-developer-zone-2.html#comments</comments>
+		<pubDate>Mon, 15 Jun 2015 15:17:26 +0000</pubDate>
+		<dc:creator><![CDATA[bgottesman]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://26.118441</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/developer-relations/2015/06/11-consultations-added-salesforce-world-tour-new-york-developer-zone-2.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/hzxejch6p/image/upload/c_scale,h_199/v1434151496/DF14_Hackathon_030_wukaxd.jpg" class="alignright wp-post-image tfe" alt="" title="" /></a>Do you dream in code? Is design on your mind? We are offering one-on-one consultations Thursday, June 18th from 9:30am to 6pm, during Salesforce World Tour New York. Slots will fill up quickly, so don’t miss out on this great opportunity to receive code or design guidance from one of our many experts. During your Code or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Do you dream in code? Is design on your mind? We are offering one-on-one consultations Thursday, June 18<sup>th</sup> from 9:30am to 6pm, during Salesforce World Tour New York. Slots will fill up quickly, so don’t miss out on this great opportunity to receive code or design guidance from one of our many experts.</p>
+<p><img class="alignnone wp-image-118481" alt="" src="http://res.cloudinary.com/hzxejch6p/image/upload/c_scale,h_199/v1434151496/DF14_Hackathon_030_wukaxd.jpg" width="299" height="199" /></p>
+<p>D<span style="line-height: 1.5em">uring your C</span><span style="line-height: 1.5em">o</span><span style="line-height: 1.5em">de or Design Cons</span><span style="line-height: 1.5em">ultation session our experts will help review your code, navigate through challenges, and share best practices with you. You will have an opportunity to meet with an expert for 30 minutes in a free private consultation. Discuss anything from your current coding project to design architecture and anything else code or design related!</span></p>
+<p>One little tip<span style="line-height: 1.5em">: do not forget to bring your code for a code walk through!</span></p>
+<p>Register for a Code Consultation: <a href="http://bit.ly/CodeConsultWT">http://bit.ly/CodeConsultWT</a></p>
+<p>Register for a Design Consultation: <a href="http://bit.ly/DesConsultWT">http://bit.ly/DesConsultWT</a></p>
+<p><img class="alignnone wp-image-118521" alt="" src="http://res.cloudinary.com/hzxejch6p/image/upload/c_scale,w_303/v1434151498/Screen_Shot_2015-06-11_at_1.08.03_PM_xgvsh6.png" width="303" height="200" /></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=2shDvnPUJd0:QYPpLBegZBM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=2shDvnPUJd0:QYPpLBegZBM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=2shDvnPUJd0:QYPpLBegZBM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=2shDvnPUJd0:QYPpLBegZBM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=2shDvnPUJd0:QYPpLBegZBM:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=2shDvnPUJd0:QYPpLBegZBM:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=2shDvnPUJd0:QYPpLBegZBM:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/2shDvnPUJd0" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/developer-relations/2015/06/11-consultations-added-salesforce-world-tour-new-york-developer-zone-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/developer-relations/2015/06/11-consultations-added-salesforce-world-tour-new-york-developer-zone-2.html</feedburner:origLink></item>
+		<item>
+		<title>Understanding JavaScript Controllers Versus Helpers In Lightning Components</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/Qvk58zT6s78/understanding-javascript-controllers-versus-helpers-lightning-components.html</link>
+		<comments>http://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-javascript-controllers-versus-helpers-lightning-components.html#comments</comments>
+		<pubDate>Mon, 15 Jun 2015 14:32:25 +0000</pubDate>
+		<dc:creator><![CDATA[Raja Rao DV]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://26.118581</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-javascript-controllers-versus-helpers-lightning-components.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/referredin/image/upload/v1434372539/ctrlAndHelpers1_mhrqgp.png" class="alignright wp-post-image tfe" alt="" title="" /></a>JavaScript Controllers and Helpers play a key role in Lightning Components Framework.. In this blog we will discuss the difference between JavaScript Controllers and JavaScript Helpers in Salesforce Lightning Components framework. ]]></description>
+				<content:encoded><![CDATA[<p dir="ltr">JavaScript Controllers and Helpers play a key role in Lightning Components Framework. One of the first things people new to the framework wonder is: What exactly is the difference between JavaScript Controllers and JavaScript Helpers. So let&#8217;s go over the differences between them.</p>
+<p> To understand it better, let’s say we have an Account list that shows two Account components (Account.cmp). It may look like this:</p>
+<pre>&lt;c:AccountList&gt;
+   &lt;c:AccountCmp id=”1” /&gt;
+   &lt;c:AccountCmp id=”2” /&gt;
+&lt;/c:AccountList&gt;</pre>
+<p>Visually, the Account list looks like the <strong>1st picture</strong> below. But while running, it actually looks something like the<strong> 2nd picture</strong>:</p>
+<p><img class="aligncenter wp-image-118631" alt="" src="http://res.cloudinary.com/referredin/image/upload/v1434372539/ctrlAndHelpers1_mhrqgp.png" width="653" height="416" /></p>
+<p dir="ltr"><span style="line-height: 1.5em">Each Account Component component (bundle) is made up of a markup, JavaScript controller, a Helper, a Renderer and more. </span></p>
+<p dir="ltr"><span style="line-height: 1.5em"><strong>But, while running,</strong> the framework creates an instance of the Controller, an instance of the Renderer for each component but creates only one copy of the Helper and passes the reference of the Helper into every Controller instance and every Renderer instance.</span></p>
+<p>In our example with two Account components, the framework creates one copy of the Helper and passes the reference of this Helper into two controller and to two renderer instances.</p>
+<h3>Benefits:</h3>
+<ul>
+<li>Since Helper is shared across everything, it allows us to share and keep logic across of Controllers and Renderers in one place.</li>
+<li>It also helps us keep logic within Controllers and Renderers lean.</li>
+</ul>
+<p>So we should try to delegate business logic to Helpers whenever possible.</p>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2>For example:</h2>
+<p><strong>Instead of:</strong></p>
+<pre>// controller.js
+callServer: function(cmp, helper) {
+   var action = cmp.get("c.getAccounts");
+   $A.enqueueAction(action);
+}
+
+// renderer.js
+afterRender: function(cmp, helper) {
+   this.superAfterRender();
+   var action = cmp.get("c.getAccounts"); 
+   $A.enqueueAction(action); 
+}</pre>
+<p><strong>Do The Following:</strong></p>
+<pre>// controller.js
+callServer: function(cmp, helper) {
+  helper.callServer();
+}
+
+//helper.js (shared across all instances of controllers and renderers)
+callServer: function(cmp, helper) {
+   var action = cmp.get("c.getAccounts");
+   $A.enqueueAction(action);
+}
+
+// renderer.js
+afterRender: function(cmp, helper) {
+   this.superAfterRender();
+   helper.callServer();
+}</pre>
+<p><strong> Note:</strong> If there are multiple types of components (say, AccountItem.cmp and AccountDetails.cmp), each component type will get a helper of their own.</p>
+<h2></h2>
+<h2></h2>
+<p>&nbsp;</p>
+<h2>When To Use Controllers v/s Helpers:</h2>
+<ol>
+<li>
+<p dir="ltr">Use Controllers to listen to user events and other events like component, application events. But delegate business logic to helper.</p>
+</li>
+<li>
+<p dir="ltr">Do similar delegation in all Renderer functions (render, rerender and so on).</p>
+</li>
+<li>
+<p dir="ltr"><span style="line-height: 1.5em"> Anytime you need to call one controller function from another controller function, move that logic to Helper.</span></p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Anti-Pattern(s):</h2>
+<ol>
+<li>
+<p dir="ltr"><strong>Too many functions in the Helper</strong>: If you get into this situation,  it’s time to refactor the component itself into smaller sub components.</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>If you have any further questions, please feel free to add comment below or ping me at: <a href="https://twitter.com/rajaraodv" target="_blank">@rajaraodv</a></p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=Qvk58zT6s78:CcMOsTvXN_s:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=Qvk58zT6s78:CcMOsTvXN_s:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=Qvk58zT6s78:CcMOsTvXN_s:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=Qvk58zT6s78:CcMOsTvXN_s:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=Qvk58zT6s78:CcMOsTvXN_s:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=Qvk58zT6s78:CcMOsTvXN_s:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=Qvk58zT6s78:CcMOsTvXN_s:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/Qvk58zT6s78" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-javascript-controllers-versus-helpers-lightning-components.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/developer-relations/2015/06/understanding-javascript-controllers-versus-helpers-lightning-components.html</feedburner:origLink></item>
+		<item>
+		<title>Building a Tic-Tac-Toe Game App Using Lightning Components</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/zTmauFdY5Tg/building-tic-tac-toe-game-using-lightning-components.html</link>
+		<comments>http://developer.salesforce.com/blogs/developer-relations/2015/06/building-tic-tac-toe-game-using-lightning-components.html#comments</comments>
+		<pubDate>Thu, 11 Jun 2015 15:51:42 +0000</pubDate>
+		<dc:creator><![CDATA[Raja Rao DV]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://26.117881</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/developer-relations/2015/06/building-tic-tac-toe-game-using-lightning-components.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/referredin/image/upload/c_scale,w_278/v1433980481/tictactoe1_e08gph.png" class="alignright wp-post-image tfe" alt="" title="" /></a>In this blog we'll explore steps we can take to build a Tic-tac-toe app using Salesforce Lightning Components. We'll learn about components and events. You can use the steps used here to build any other Lightning app.]]></description>
+				<content:encoded><![CDATA[<p dir="ltr">In this blog we&#8217;ll explore how to build a Tic-tac-toe app using Lightning Components. We&#8217;ll do so by go over steps to help us decompose the app into smaller components and wire them up using events. You can use the steps used here to build any other Lightning app.</p>
+<p dir="ltr">The below picture shows how the completed app looks. You can install the <a href="https://na15.salesforce.com/packaging/installPackage.apexp?p0=04t1a0000001gLh" target="_blank">unmanaged package from here</a>, add it to Salesforce1 Mobile (Setup &gt; Mobile Navigation) and open &#8220;Tic Tac Toe&#8221; in Salesforce1 Mobile to see it in action. You can also open it as a standalone app by going opening /c/TicTacToeApp.app</p>
+<p dir="ltr"><img class="aligncenter wp-image-118101" alt="" src="http://res.cloudinary.com/referredin/image/upload/c_scale,w_278/v1433980481/tictactoe1_e08gph.png" width="278" height="499" /></p>
+<p dir="ltr"><strong> Let’s go over the steps that help us build it.</strong></p>
+<h1></h1>
+<h2>Step 1 &#8211; Make A List Of App&#8217;s Main Features:</h2>
+<p dir="ltr">First start with the main features. In our case, our app:</p>
+<ol>
+<li>
+<p dir="ltr">Should be a single player game &#8211; the 2nd player should be computer that selects a tile based on some logic (AI)</p>
+</li>
+<li>
+<p dir="ltr">Should be able to Start a new game or reset everything at any point</p>
+</li>
+<li>
+<p dir="ltr">Should keep track of previous scores.</p>
+</li>
+<li>
+<p dir="ltr">Should show exactly which 3 tiles caused the success of the user or computer.</p>
+</li>
+</ol>
+<h1></h1>
+<h2>Step 2 &#8211; Divide The App Into Components:</h2>
+<p>Based on the main features, we can get an idea as to how to divide the app into components.</p>
+<p dir="ltr">In our case, the app is divided into 3 main components:</p>
+<ol>
+<li>
+<p dir="ltr"><strong>TicTacToeGrid Cmp</strong>: This is the main component that handles game logic (feature #1 and #2)</p>
+</li>
+<li>
+<p dir="ltr"><strong>Scorecard Cmp</strong>: This simply maintains the score from one game to another (feature #3)</p>
+</li>
+<li>
+<p dir="ltr"><strong>Tile Cmp (9 of them)</strong>: There are 9 “Tile” components, each representing different cell in the grid (feature #4)</p>
+</li>
+</ol>
+<h1><img class="aligncenter wp-image-118121" alt="" src="http://res.cloudinary.com/referredin/image/upload/c_scale,w_512/v1433980481/tictactoe2_drz9kf.png" width="512" height="460" /></h1>
+<h1></h1>
+<h2>Step 3 &#8211; Assign Responsibilities To Components:</h2>
+<p>Next step is to go into details of what each component is responsible for (and not responsible for). This will not only help us implement all the features but also help us figure out what Lightning events we need and how to wire them up.</p>
+<h3>TicTacToeGrid Cmp:</h3>
+<p dir="ltr">This is the main component that creates a grid of 9 <strong>Tile</strong> child components and a <strong>Scorecard</strong> child Component.</p>
+<p dir="ltr"> It’s responsible for:</p>
+<ol>
+<li> Creating the UI and Grid of Tiles</li>
+<li>
+<p dir="ltr">Starting a new game</p>
+</li>
+<li>
+<p dir="ltr">Resetting the game board</p>
+</li>
+<li>
+<p dir="ltr">Wait for Computer’s turn and select a tile on-behalf-of computer (AI)</p>
+</li>
+<li>
+<p dir="ltr">Telling others when the game is over including who won, who lost or draw</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p dir="ltr">It’s not responsible for:</p>
+<ol>
+<li>
+<p dir="ltr">Maintaining the score of previous games  (Scoreboard component does this)</p>
+</li>
+<li>
+<p dir="ltr">Displaying current game’s status after it’s over (Scoreboard component does this)</p>
+</li>
+<li>
+<p dir="ltr">Dealing with Tile clicks (Tile component handles this)</p>
+</li>
+</ol>
+<h3>Scorecard Cmp:</h3>
+<p dir="ltr">This is a simply score display component.</p>
+<p dir="ltr">It’s responsible for:</p>
+<ol>
+<li>
+<p dir="ltr">Keeping track of Scores,</p>
+</li>
+<li>
+<p dir="ltr">Displaying game final status</p>
+</li>
+<li>
+<p dir="ltr">Listening and resetting itself</p>
+</li>
+</ol>
+<h3>Tile Cmp:</h3>
+<p dir="ltr">There are 9 of these components and each represent a single cell in the grid.</p>
+<p><strong>Each Tile component</strong> is responsible for:</p>
+<ol>
+<li>
+<p dir="ltr">Listening to user clicks and changing it’s value to ‘X’</p>
+</li>
+<li>
+<p dir="ltr">Listening to ‘Computer’ clicks and changing it’s value to ‘O’</p>
+</li>
+<li>
+<p dir="ltr">Telling others (TicTacToeGrid) that the user has clicked on it.</p>
+</li>
+<li>
+<p dir="ltr">Finally, display which set of 3 tiles caused the game to over (shows them in green).</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Step 4 &#8211; Use Scenarios To Wire Up Events</h2>
+<p dir="ltr">Now that we have assigned responsibilities to each component, we can see how to wire them up.  In Lightning we can do this using <a href="https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/events_intro.htm">eventing library</a>. By playing out the scenarios and using component &#8216;responsibilities&#8217; from Step 2, we can figure out all the events.</p>
+<p dir="ltr"><strong>Our app has 3  scenarios:</strong></p>
+<ol>
+<li>User clicks on a &#8220;New Game&#8221; button</li>
+<li>User clicks on a &#8220;Reset&#8221; button</li>
+<li>User clicks on a &#8220;Tile&#8221; to play the game.</li>
+</ol>
+<p>&nbsp;</p>
+<p>At the end our app uses 5 events. The below picture shows how they are wired, which direction they travel. You can tell when they are used pretty much by looking at their names.</p>
+<p dir="ltr"><img class="aligncenter wp-image-117921" alt="" src="http://res.cloudinary.com/referredin/image/upload/v1433980481/tictactoe4_ymtxhj.png" width="1107" height="780" /></p>
+<p dir="ltr"><em><strong> Let’s understand how events are wired up by going through them.</strong></em></p>
+<h2></h2>
+<h2></h2>
+<h3>Scenario 1: User Clicks On ‘New Game’ button</h3>
+<p dir="ltr">From earlier Step 2, we know that TicTacToeGrid.cmp notifies child components that a new game is about to begin. Because it goes from Parent to child(and grandchild) components, we&#8217;ll create an Application event called: <strong>NewGame.evt. </strong> We will fire it when the user clicks on the “New Game” button.</p>
+<p dir="ltr"><strong>NewGame.evt</strong> event looks like below:</p>
+<pre>&lt;aura:event type="APPLICATION" description="Indicates starting a new game" /&gt;</pre>
+<p><strong> TicTacToeGrid.cmp</strong> Component registers the event to indicate that it might trigger this event</p>
+<pre>&lt;aura:registerEvent name="newGame" type="c:NewGame"/&gt;</pre>
+<p dir="ltr">1. When the “New Game” button is clicked, <strong>TicTacToeGrid.cmp</strong> fires the event.</p>
+<pre> newGame: function() {
+   //Tell others that a new game is about to begin.
+    var appEvent = $A.get("e.c:NewGame");
+    appEvent.fire();
+ }</pre>
+<p>&nbsp;</p>
+<p dir="ltr">2. <strong>All 9 Tile.cmp</strong> components listen to this event like below:</p>
+<pre>&lt;aura:handler event="c:NewGame" action="{!c.handleNewGame}"/&gt;</pre>
+<p>&nbsp;</p>
+<p dir="ltr">3. And when the event comes, each one of them reset their values themselves</p>
+<pre> handleNewGame: function(component, event, helper) {
+     helper.resetMe(component);
+ }</pre>
+<p>&nbsp;</p>
+<p dir="ltr">4. <strong>Scoreboard.cmp</strong> also listens to this event like below:</p>
+<pre>&lt;aura:handler event="c:NewGame" action="{!c.handleNewGame}"/&gt;</pre>
+<p>&nbsp;</p>
+<p dir="ltr">5. When the event comes, <strong>Scoreboard.cmp</strong> simply clears it’s Win/Lose status message like below:</p>
+<pre> handleNewGame: function(component, event, helper) {
+   component.set('v.message', '');
+ }</pre>
+<h3>Scenario 2: User Clicks On ‘Reset’ Button</h3>
+<p dir="ltr">This is similar to the above scenario. Only difference is that when Reset happens, Scoreboard.cmp clears previous scores in addition to Win/Lose status.</p>
+<p>&nbsp;</p>
+<h3>Scenario 3: User Clicks On A Tile</h3>
+<ol>
+<li>
+<p dir="ltr"><strong>Tile.cmp</strong> updates itself with &#8216;<strong>X</strong>&#8216; and fires <strong>TileClicked.evt</strong>.</p>
+</li>
+<li>
+<p dir="ltr"><strong>TicTacToeGrid.cmp</strong> notices the event and check if the game has won/not.</p>
+<ul>
+<li>
+<p dir="ltr">If the game is not won and if there is an empty tile, then AI selects one of them</p>
+<ul>
+<li>
+<p dir="ltr"><strong>TicTacToeGrid.cmp</strong> then triggers <strong>ComputerClicked.evt</strong></p>
+</li>
+<li>
+<p dir="ltr"><strong>Tile.cmp</strong> updates that particular tile with<strong> ‘O’</strong></p>
+</li>
+<li>
+<p dir="ltr">End</p>
+</li>
+</ul>
+</li>
+<li>
+<p dir="ltr">If the game is won, then go to 3</p>
+</li>
+</ul>
+</li>
+<li>
+<p dir="ltr"><strong>TicTacToeGrid.cmp</strong> fires <strong>GameOver.evt</strong></p>
+<ol>
+<li>
+<p dir="ltr"><strong>ScoreBoard.cmp</strong> updates Score and displays who won</p>
+</li>
+<li>
+<p dir="ltr"><strong>3 out of 9 Tile.cmp</strong> components highlights themselves in green if they are the reason the game ended.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>&nbsp;</p>
+<h2>Summary:</h2>
+<ul>
+<li>It&#8217;s very easy to decompose apps into components if we list out the main features first</li>
+<li>Assigning responsibilities to components will help in knowing what kind of events we need.</li>
+<li>Use scenarios or use-cases in conjunction with component responsibilities to nail events.</li>
+<li>Use application events to notify multiple child components and use component events to notify top-level component.</li>
+<li>Trigger a new event for each scenario.</li>
+<li>If the scenario has a cyclic effect (like UserClick triggers ComputerClick), use two events, one for going from child-to-parent and another for parent-to-child.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zTmauFdY5Tg:CEvx7cSXN9Q:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zTmauFdY5Tg:CEvx7cSXN9Q:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zTmauFdY5Tg:CEvx7cSXN9Q:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=zTmauFdY5Tg:CEvx7cSXN9Q:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zTmauFdY5Tg:CEvx7cSXN9Q:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=zTmauFdY5Tg:CEvx7cSXN9Q:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=zTmauFdY5Tg:CEvx7cSXN9Q:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/zTmauFdY5Tg" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/developer-relations/2015/06/building-tic-tac-toe-game-using-lightning-components.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/developer-relations/2015/06/building-tic-tac-toe-game-using-lightning-components.html</feedburner:origLink></item>
+		<item>
+		<title>Developer Success Story – Gaurav Kheterpal</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/IezMYmAfbl4/developer-success-story-gaurav-kheterpal.html</link>
+		<comments>http://developer.salesforce.com/blogs/developer-relations/2015/06/developer-success-story-gaurav-kheterpal.html#comments</comments>
+		<pubDate>Wed, 10 Jun 2015 21:29:48 +0000</pubDate>
+		<dc:creator><![CDATA[Mallory Leggere]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[salesforce]]></category>
+
+		<guid isPermaLink="false">http://26.117391</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/developer-relations/2015/06/developer-success-story-gaurav-kheterpal.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/hzxejch6p/image/upload/c_crop,h_570,w_496/v1433861616/guarav_whbqzx.jpg" class="alignright wp-post-image tfe" alt="" title="" /></a>From Device Drivers &#38; Telecom Services to Mobile App Development Using Force.com to Make a Mark in Mobility Gaurav Kheterpal had no idea that he would become a leader in the Force.com mobile app developer community. He credits the ease of platform learning and camaraderie of the Force.com developers for making a successful transition from [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 dir="ltr"><strong><img class="wp-image-117441 alignleft" alt="" src="http://res.cloudinary.com/hzxejch6p/image/upload/c_crop,h_570,w_496/v1433861616/guarav_whbqzx.jpg" width="188" height="215" />From Device Drivers &amp; Telecom Services to Mobile App Development</strong><br />
+<strong>Using Force.com to Make a Mark in Mobility</strong></h2>
+<p dir="ltr">Gaurav Kheterpal had no idea that he would become a leader in the Force.com mobile app developer community. He credits the ease of platform learning and camaraderie of the Force.com developers for making a successful transition from telecom backend solutions to celebrity status as “The Salesforce Mobile Guy.”</p>
+<p dir="ltr">Right out of college, he started his career in telecom with Alcatel Lucent. There, he worked on large-scale billing and call routing solutions. Later, he moved to Siemens where he developed device drivers and payment gateways. A couple of interesting stints followed, but the career turning point occurred in 2007 when he joined Metacube.</p>
+<p dir="ltr">Up to that point, Gaurav had been immersed in primarily coding C/C++. He was curious about Apex and the Salesforce platform in general, and in 2008 he got the chance to investigate further. A client was interested in building a project on the Salesforce platform and Gaurav used his time to look into it. After reporting his findings to his managers, they liked what they saw well enough to move ahead on Force.com.</p>
+<p dir="ltr">“After that, there was no looking back,” Gaurav declared. “One thing led to the other and we were among the first few companies to actually do Salesforce mobile development. I was fortunate that I started early when the platform and SDKs were not fully evolved. The only way to learn was to try things out and ask in the forums. It was the hard way but it has helped me in the long run.”</p>
+<h3 dir="ltr">More Than Mobile Apps…Full-Fledged Mobile Solutions</h3>
+<p dir="ltr">Gaurav and his team have built a number of advanced mobile app solutions for some of the world’s leading investment banking and technology companies. As Head of Mobility for Metacube, his team is comprised of 30 developers who turn out advanced, cutting-edge mobile solutions. Gaurav says the common denominator is the Salesforce1 Mobile SDK, which offers both hybrid and native development templates.</p>
+<p dir="ltr">“The Salesforce1 platform is very powerful and opens up a lot of possibilities for mobile developers,” according to Gaurav. “Whether you have a native mobile background or not – even if you do not know anything about mobile &#8211; you can still use your Apex, Visualforce with responsive frameworks and the Salesforce1 container and you get a ready-made platform to deploy your apps.”</p>
+<p dir="ltr">One solution developed by Gaurav’s team is a hybrid app delivering advanced offline functionality. Along with some complex call recording features, users are able to take notes offline and then sync it back when they are online. This app was developed for some leading investment banks. For another app called ‘<a href="https://www.youtube.com/watch?v=e9Kxp8zhl00">Chatter Complete</a>’, his team developed video calling and instant messaging between Salesforce users.</p>
+<p dir="ltr">“These apps represent some of the most complex use cases of the Salesforce1 mobile platform,” Gaurav stated. “They are not just apps, but full fledged products. One we’ve been building for over 3 years now. We’re still adding more features to it – it’s really not fair to call it an app as it is more of a full-fledged mobile product.”</p>
+<p dir="ltr">Gaurav points out that mobile development with Salesforce1 excels in two aspects. “First, Salesforce has created packs for many mobile frameworks. All you need to do is pick one of the mobile packs, look at one of the sample apps, and use that as a seed project and transform your app,” he outlined. “The second thing that is done really well is great documentation around these mobile frameworks and SDKs. And support is great. If you get stuck, you can post questions to developer forums or mobile SDK communities and a number of experts will help you out. I moderate<a href="https://developer.salesforce.com/forums/ForumsProfile?userId=005F0000003FjBcIAK&amp;communityId=09aF00000004HMGIA2"> developer forums</a> and am among the Top 30 members on<a href="http://salesforce.stackexchange.com/users/10881/gaurav-kheterpal"> Salesforce Stack Exchange</a> – mostly focused on Mobile, Lightning and Salesforce1.”</p>
+<h3 dir="ltr">Using Forums and Dreamforce to Build a Dream Career</h3>
+<p dir="ltr">Gaurav credits rapid response to his own initial inquires for helping build his own career as a Salesforce mobile developer and eventually, a community leader. “It was a natural progression for me,” he said. “I used forums in 2008 when I posted queries and was pleasantly surprised that I received a response within a few minutes that actually solved my problems. That got me hooked to post more questions when I ran into problems, and encouraged me to answer questions on the forums to help the Salesforce team that was maintaining forums. Then, I was asked to be a moderator. I feel it’s my give-back responsibility to help others.”</p>
+<p dir="ltr">Force.com as a platform is a huge part of Gaurav’s identity. His projects, advice and Dreamforce sessions have been highlighted in the community based on what he’s accomplished over the years.</p>
+<p dir="ltr">In 2012, Gaurav’s team built an app called ‘<a href="https://www.youtube.com/watch?v=QW72lwUmkME">Noteprise’</a> – a connector  between Salesforce and Evernote, basically notes for enterprise powered by the Force.com platform. “The app was a runner-up in a<a href="http://blogs.developerforce.com/developer-relations/2012/08/finally-mobile-developer-challenge-winners.html"> global mobile development challenge held by Salesforce</a> and was selected for the mobile dev gallery – a collection of some of the best reference applications. We then developed a few more interesting applications like one called Socialforce, which is a mashup of Salesforce, Facebook, Twitter and Linkedin. I keep experimenting, and last year, I wrote another app using the Titanium framework for Force.com which won the<a href="https://appcelerator.challengepost.com/submissions"> Appcelerator enterprise app challenge</a>. And, I have participated in the last two Dreamforce hackthons – didn’t win until now, but hopefully some day I hope to cross that bridge,” he says.</p>
+<p dir="ltr">Apart from what he does with clients, Gaurav loves spending time exploring Force.com and trying to come up with some unorthodox ideas and applications. “It’s a powerful platform and the possibilities are endless. It’s fun to try out new things,” he stated.</p>
+<h3 dir="ltr">Advising New Force.com Developers – Taking His Own Advice</h3>
+<p dir="ltr">A popular blog last year named Gaurav as one of “<a href="http://blog.postcodeanywhere.co.uk/index.php/22-people-you-need-to-follow-before-dreamforce/">22 People You need to follow before Dreamforce</a>,” which humbles and motivates him to help other developers.</p>
+<p dir="ltr">“Apex scares some developers as they think of it as a proprietary language,” Gaurav noted. “But the good thing about Apex and Visualforce is that they are built on the Force.com platform. It’s very well designed in the sense that as a developer you are challenged by the governor limits. It’s very well structured in that if you write some Apex code, you have to write quality test code to deploy your solution to production, or else the code won’t deploy. That automatically ensures the quality of the applications.”</p>
+<p dir="ltr">Gaurav says the best part of his profession is that mobile technology changes much faster than most people can imagine. Even if a framework was launched a few months back, it’s not surprising to see new frameworks come up in a matter of days or weeks. He advises, “You need to be on your toes and keep learning. I’m always learning something new every day that is very satisfying. I love technology!”</p>
+<p dir="ltr">He also counsels new Force.com developers to employ the same resources he did when he started – some that he now leads. “I presented two sessions at the last Dreamforce – one session was titled ‘Find Your Feet on Force.com’ – essentially how do you get started, how to prepare for certifications, how to make the best of the developer community. The other one was a more advanced session exploring new possibilities for mobile automation testing on the Salesforce1 platform.,” Gaurav stated.</p>
+<p dir="ltr">“Salesforce has created some easy-to-follow learning paths for newbies,” Gaurav noted. “I really like<a href="https://developer.salesforce.com/trailhead"> Trailhead</a>, where you complete modules and earn badges that you can show off on your personal and professional profiles like Twitter, Facebook and LinkedIn. Trailhead is a great way to get first time experience – not just a tutorial – you are introduced to a concept and have to solve a business problem using that concept.”</p>
+<p dir="ltr">Gaurav said that newbies need perseverance and willingness to learn as all the resources are there for them. He is practicing that concept with his future endeavors as well. “There are still a lot of areas I’d like to explore,” he declared. “For example, I’ve used Heroku and would like to explore it more. Salesforce acquired the company a few years back and the platform has grown very fast. I WANT to learn. I’m happy with my path and wish to continue.”</p>
+<p dir="ltr">Application: Salesforce1 Mobile SDK</p>
+<p dir="ltr">Lead Architect: Gaurav Kheterpal</p>
+<p dir="ltr">Blog: gauravkheterpal.com</p>
+<p>Contact: gaurav.kheterpal@metacube.com</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=IezMYmAfbl4:tWkt311TdYc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=IezMYmAfbl4:tWkt311TdYc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=IezMYmAfbl4:tWkt311TdYc:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=IezMYmAfbl4:tWkt311TdYc:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=IezMYmAfbl4:tWkt311TdYc:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=IezMYmAfbl4:tWkt311TdYc:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=IezMYmAfbl4:tWkt311TdYc:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/IezMYmAfbl4" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/developer-relations/2015/06/developer-success-story-gaurav-kheterpal.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/developer-relations/2015/06/developer-success-story-gaurav-kheterpal.html</feedburner:origLink></item>
+		<item>
+		<title>Introducing Mobile SDK Trail for Trailhead</title>
+		<link>http://feedproxy.google.com/~r/SforceBlog/~3/668f9iWUK3A/introducing-mobile-sdk-trail.html</link>
+		<comments>http://developer.salesforce.com/blogs/engineering/2015/06/introducing-mobile-sdk-trail.html#comments</comments>
+		<pubDate>Wed, 10 Jun 2015 00:28:52 +0000</pubDate>
+		<dc:creator><![CDATA[Akhilesh Gupta]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[documentation]]></category>
+		<category><![CDATA[hybrid]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[mobile sdk]]></category>
+		<category><![CDATA[trailhead]]></category>
+
+		<guid isPermaLink="false">http://25.41191</guid>
+		<description><![CDATA[<a href="http://developer.salesforce.com/blogs/engineering/2015/06/introducing-mobile-sdk-trail.html"><img align="right" hspace="5" width="150" src="http://res.cloudinary.com/hy4kyit2a/image/upload/2015-Trailhead-trail-mobileSDK-transparent.png" class="alignright wp-post-image tfe" alt="" title="" /></a>Trailhead has been a great tool for Salesforce Administrators and Developers to grow their skill set. Adding to this journey, I am excited to announce the release of a brand new trail for Salesforce Mobile SDK. The Salesforce Mobile SDK trail includes 5 different modules and covers topics ranging from native iOS/Android development, to hybrid and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<table border="0">
+<tbody>
+<tr>
+<td>Trailhead has been a great tool for Salesforce Administrators and Developers to grow their skill set. Adding to this journey, I am excited to announce the release of a brand new trail for Salesforce Mobile SDK.</p>
+<p>The <a href="https://developer.salesforce.com/trailhead/trail/mobile_sdk_intro">Salesforce Mobile SDK trail</a> includes 5 different modules and covers topics ranging from native iOS/Android development, to hybrid and offline apps. If you are a developer and love building apps, this trail is a great way to gain experience on mobile application development. We are also including a set of challenges, which will help you test your knowledge.</td>
+<td width="200"><img class="wp-image-41211 aligncenter" alt="" src="http://res.cloudinary.com/hy4kyit2a/image/upload/2015-Trailhead-trail-mobileSDK-transparent.png" width="200" height="200" /></td>
+</tr>
+</tbody>
+</table>
+<p>The Mobile SDK trail currently includes the following modules:</p>
+<table border="0">
+<tbody>
+<tr>
+<td width="120"><img alt="" src="https://res.cloudinary.com/hy4kyit2a/image/upload/v1423789666/2015-trailhead_icons-new-mobileSDK_llsift.png" width="100" height="100" /></td>
+<td><a title="Mobile SDK Introduction" href="https://developer.salesforce.com/trailhead/module/mobile_sdk_introduction">Mobile Basics</a> module provides a basic overview of mobile application development on Salesforce1 Platform. It also explains the various technology options and the related pros &amp; cons.</td>
+</tr>
+<tr>
+<td width="120"><img alt="" src="https://res.cloudinary.com/hy4kyit2a/image/upload/v1423789681/2015-trailhead_icons-new-mobile_html5_qo8lzs.png" width="100" height="100" /></td>
+<td><a title="Mobile SDK Hybrid Apps" href="https://developer.salesforce.com/trailhead/module/mobile_sdk_hybrid">HTML5 &amp; Hybrid</a> module will help you learn the skills of hybrid app development. Use your HTML5 development skills with Mobile SDK to build great mobile experiences.</td>
+</tr>
+<tr>
+<td width="120"><img alt="" src="https://res.cloudinary.com/hy4kyit2a/image/upload/v1423789670/2015-trailhead_icons-new-mobile_ios_tq9i19.png" width="100" height="100" /></td>
+<td><a title="Native iOS Apps" href="https://developer.salesforce.com/trailhead/module/mobile_sdk_native_ios">Native iOS</a> module explains the capabilities of our iOS SDK. In this module, you will learn to build a native iOS application that connects with data from Salesforce Platform.</td>
+</tr>
+<tr>
+<td width="120"><img alt="" src="https://res.cloudinary.com/hy4kyit2a/image/upload/v1423789686/2015-trailhead_icons-new-mobile_android_fflner.png" width="100" height="100" /></td>
+<td><a title="Native Android Apps" href="https://developer.salesforce.com/trailhead/module/mobile_sdk_native_android">Native Android</a> module explains the capabilities of our Android SDK. Similar to the iOS SDK, you will be learn how to build native Android applications and retrieve data from Salesforce.</td>
+</tr>
+<tr>
+<td width="120"><img alt="" src="https://res.cloudinary.com/hy4kyit2a/image/upload/v1423789612/2015-trailhead_icons-new-offline_xgil3k.png" width="100" height="100" /></td>
+<td><a title="Offline Management" href="https://developer.salesforce.com/trailhead/module/mobile_sdk_offline">Offline Management</a> module contains the detailed information on how to build an offline ready application. In this module, you will learn about the SmartStore and SmartSync features of Mobile SDK that simplifies storing and managing offline data.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Whether you are a newbie in mobile development or an expert who wants to learn about advanced topics, these modules will be great for you. We will continue to keep them up-to-date and add a lot more new trails in near future.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/SforceBlog?a=668f9iWUK3A:0inxv_8Ny6M:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=668f9iWUK3A:0inxv_8Ny6M:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=668f9iWUK3A:0inxv_8Ny6M:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=668f9iWUK3A:0inxv_8Ny6M:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=668f9iWUK3A:0inxv_8Ny6M:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/SforceBlog?i=668f9iWUK3A:0inxv_8Ny6M:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/SforceBlog?a=668f9iWUK3A:0inxv_8Ny6M:l6gmwiTKsz0"><img src="http://feeds.feedburner.com/~ff/SforceBlog?d=l6gmwiTKsz0" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/SforceBlog/~4/668f9iWUK3A" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://developer.salesforce.com/blogs/engineering/2015/06/introducing-mobile-sdk-trail.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://developer.salesforce.com/blogs/engineering/2015/06/introducing-mobile-sdk-trail.html</feedburner:origLink></item>
+	</channel>
+</rss>
