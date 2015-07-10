@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <fields>
+        <fullName>TEmail__c</fullName>
+        <description>Teacher email id</description>
+        <label>TEmail</label>
+        <type>Email</type>
+    </fields>
+    <fields>
+        <fullName>TMbNum__c</fullName>
+        <description>Teacher Mobile Number</description>
+        <label>TMbNum</label>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>TeacherName__c</fullName>
+        <description>Teacher name</description>
+        <label>TeacherName</label>
+        <length>20</length>
+        <type>Text</type>
+    </fields>
+    <label>Teacher</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <label>Teacher  Id</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Teachers</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <fields>
+        <fullName>Phone_no__c</fullName>
+        <label>Phone no.</label>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>StudentLookupTeacher__c</fullName>
+        <description>Lookup Relationship</description>
+        <label>Teacher</label>
+        <referenceTo>Teacher__c</referenceTo>
+        <relationshipLabel>Student</relationshipLabel>
+        <relationshipName>Student</relationshipName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Student_Name__c</fullName>
+        <label>Student Name</label>
+        <length>20</length>
+        <type>Text</type>
+    </fields>
+    <fields>
+        <fullName>Subject__c</fullName>
+        <label>Subject</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Physics</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Maths</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Chemistry</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Biology</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <type>MultiselectPicklist</type>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <label>Student</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <displayFormat>S-{0000}</displayFormat>
+        <label>Student Name</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Student</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>

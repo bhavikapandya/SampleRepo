@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>stores the product</description>
+    <fields>
+        <fullName>Description__c</fullName>
+        <description>provide desc</description>
+        <label>Description</label>
+        <required>true</required>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Price__c</fullName>
+        <description>$</description>
+        <label>Price</label>
+        <precision>18</precision>
+        <scale>0</scale>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Total_Quantity__c</fullName>
+        <description>Quantity is good</description>
+        <label>Total Quantity</label>
+        <type>TextArea</type>
+    </fields>
+    <label>Inventory</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <label>Inventory Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Inventories</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
