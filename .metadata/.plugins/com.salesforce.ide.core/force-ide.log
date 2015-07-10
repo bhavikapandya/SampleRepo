@@ -1,0 +1,212 @@
+ WARN [2015-06-18 20:37:02,412] (IntroEditorInput.java:loadDocument:130) - org.xml.sax.SAXParseException; lineNumber: 149; columnNumber: 32; The entity name must immediately follow the '&' in the entity reference.
+ WARN [2015-06-18 20:37:07,783] (ConnectionFactory.java:clearCache:209) - No cached connections
+ WARN [2015-06-18 20:37:07,783] (DescribeObjectRegistry.java:clearCache:654) - No cached describes
+ WARN [2015-06-18 20:37:07,783] (MetadataFactory.java:clearCache:120) - No cached metadata stubs
+ WARN [2015-07-09 14:33:00,098] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:33:00,158] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:33:00,168] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'MyFirstProject': Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:33:00,198] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:34:57,914] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:34:57,914] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:34:57,924] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'MyFirstProject': Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:34:57,944] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:35:34,702] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:35:34,712] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:35:34,712] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'MyFirstProject': Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:35:34,732] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:37:01,698] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:37:01,698] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:37:01,708] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'MyFirstProject': Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:37:01,728] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:37:21,247] (ConnectionFactory.java:clearCache:209) - No cached connections
+ WARN [2015-07-09 14:37:21,257] (DescribeObjectRegistry.java:clearCache:654) - No cached describes
+ WARN [2015-07-09 14:37:21,257] (MetadataFactory.java:clearCache:120) - No cached metadata stubs
+ WARN [2015-07-09 14:38:46,957] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:38:46,977] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:38:46,977] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'Project1': Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:38:46,997] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:41:13,450] (BaseRetryAspect.java:isLoginExceptionRetryable:95) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:41:13,460] (BaseRetryAspect.java:isConnectionExceptionRetryable:131) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:41:13,460] (ProjectController.java:getRemotePackageNames:882) - Unable to get project packages for project 'project1': Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:41:13,490] (ProjectOrganizationPage.java:prepareNextPage:258) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-09 14:42:56,736] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:42:56,746] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:42:56,756] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:42:57,320] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:42:57,330] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:42:57,345] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:08,162] (Utils.java:loadDocument:823) - Unable to load document: C:\Workspace\.metadata\.plugins\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2015-07-09 14:44:09,392] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:09,412] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:09,422] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:10,882] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:10,892] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:10,902] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:12,083] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:12,093] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:12,113] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:12,803] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:12,813] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:12,833] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:14,263] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:14,273] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:14,293] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:36,665] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'BusinessProcess': Unable to get bean for id 'BusinessProcess'
+ WARN [2015-07-09 14:44:36,675] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CompactLayout': Unable to get bean for id 'CompactLayout'
+ WARN [2015-07-09 14:44:36,695] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CustomField': Unable to get bean for id 'CustomField'
+ WARN [2015-07-09 14:44:36,695] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CustomLabel': Unable to get bean for id 'CustomLabel'
+ WARN [2015-07-09 14:44:36,897] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:36,917] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:36,927] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:37,887] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:37,907] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:37,917] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:39,038] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:39,048] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:39,058] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:39,528] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:39,538] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FieldSet': Unable to get bean for id 'FieldSet'
+ WARN [2015-07-09 14:44:39,538] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:39,558] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ListView': Unable to get bean for id 'ListView'
+ WARN [2015-07-09 14:44:39,558] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'NamedFilter': Unable to get bean for id 'NamedFilter'
+ WARN [2015-07-09 14:44:39,568] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'RecordType': Unable to get bean for id 'RecordType'
+ WARN [2015-07-09 14:44:40,038] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:40,048] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:44:40,068] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 14:44:40,588] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SharingReason': Unable to get bean for id 'SharingReason'
+ WARN [2015-07-09 14:44:40,598] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ValidationRule': Unable to get bean for id 'ValidationRule'
+ WARN [2015-07-09 14:44:40,608] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WebLink': Unable to get bean for id 'WebLink'
+ WARN [2015-07-09 14:44:40,608] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowAlert': Unable to get bean for id 'WorkflowAlert'
+ WARN [2015-07-09 14:44:40,618] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowFieldUpdate': Unable to get bean for id 'WorkflowFieldUpdate'
+ WARN [2015-07-09 14:44:40,618] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowKnowledgePublish': Unable to get bean for id 'WorkflowKnowledgePublish'
+ WARN [2015-07-09 14:44:40,618] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowOutboundMessage': Unable to get bean for id 'WorkflowOutboundMessage'
+ WARN [2015-07-09 14:44:40,628] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowRule': Unable to get bean for id 'WorkflowRule'
+ WARN [2015-07-09 14:44:40,628] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowSend': Unable to get bean for id 'WorkflowSend'
+ WARN [2015-07-09 14:44:40,638] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowTask': Unable to get bean for id 'WorkflowTask'
+ WARN [2015-07-09 14:44:40,742] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 14:44:40,746] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 14:47:09,422] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'package.xml': Entity type 'Group' is not available in this api version
+ WARN [2015-07-09 14:47:09,432] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'package.xml': Entity type 'Flow' is not available in this api version
+ WARN [2015-07-09 14:47:09,432] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'package.xml': Entity type 'Queue' is not available in this api version
+ WARN [2015-07-09 14:47:09,432] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'package.xml': Entity type 'Role' is not available in this api version
+ WARN [2015-07-09 14:47:09,442] (ProjectController.java:handleRetrieveResults:727) - Failed to retrieve: 'package.xml': Entity type 'ApprovalProcess' is not available in this api version
+ WARN [2015-07-09 15:02:05,239] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'classes/TestClass.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2015-07-09 15:02:05,939] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 15:02:05,949] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 15:02:05,959] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 15:03:22,355] (ProjectPackageList.java:getComponentByMetadataFilePath:826) - Did not find component for 'classes/TestClass.cls'
+ WARN [2015-07-09 15:03:22,365] (ProjectService.java:handleRetrieveMessages:2180) - Unable to handle retrieve message - could not find component 'classes/TestClass.cls' for message 'In field: specific ids - no ApexClass named TestClass found'
+ WARN [2015-07-09 16:18:28,282] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'pages/Page1.page-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2015-07-09 16:18:28,782] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 16:18:28,792] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 16:18:28,812] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 16:21:21,930] (BuilderPayload.java:filterComponentsInConflict:264) - Retrieve result contains problem messages:
+ (1) package.xml: Entity type 'ApprovalProcess' is not available in this api version
+ (2) package.xml: Entity type 'Flow' is not available in this api version
+ (3) package.xml: Entity type 'Group' is not available in this api version
+ (4) package.xml: Entity type 'Queue' is not available in this api version
+ (5) package.xml: Entity type 'Role' is not available in this api version
+ WARN [2015-07-09 16:22:56,572] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'classes/ApexClass1.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2015-07-09 16:22:57,078] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 16:22:57,088] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 16:22:57,098] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 17:41:38,140] (BuilderPayload.java:filterComponentsInConflict:264) - Retrieve result contains problem messages:
+ (1) package.xml: Entity type 'ApprovalProcess' is not available in this api version
+ (2) package.xml: Entity type 'Flow' is not available in this api version
+ (3) package.xml: Entity type 'Group' is not available in this api version
+ (4) package.xml: Entity type 'Queue' is not available in this api version
+ (5) package.xml: Entity type 'Role' is not available in this api version
+ WARN [2015-07-09 17:42:54,899] (ProjectService.java:handleDeployResult:1909) - Save failed!
+ WARN [2015-07-09 17:42:54,909] (ProjectService.java:handleRetrieveResult:2085) - Nothing to save to project - retrieve result is empty
+ WARN [2015-07-09 17:43:06,243] (ProjectPackageList.java:getComponentByMetadataFilePath:826) - Did not find component for 'classes/ApexClass1.cls'
+ WARN [2015-07-09 17:43:06,243] (ProjectService.java:handleRetrieveMessages:2180) - Unable to handle retrieve message - could not find component 'classes/ApexClass1.cls' for message 'In field: specific ids - no ApexClass named ApexClass1 found'
+ WARN [2015-07-09 17:43:07,637] (ConnectionFactory.java:clearCache:212) - Clearing the following cached connections
+ WARN [2015-07-09 17:43:07,647] (DescribeObjectRegistry.java:clearCache:657) - Clearing cached describes
+ WARN [2015-07-09 17:43:07,647] (MetadataFactory.java:clearCache:123) - Clearing the following cached metadata stubs
+ WARN [2015-07-09 17:55:48,350] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'classes/ApexClass1.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2015-07-09 17:55:49,014] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 17:55:49,025] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 17:55:49,037] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 17:57:27,842] (BuilderPayload.java:filterComponentsInConflict:264) - Retrieve result contains problem messages:
+ (1) package.xml: Entity type 'ApprovalProcess' is not available in this api version
+ (2) package.xml: Entity type 'Flow' is not available in this api version
+ (3) package.xml: Entity type 'Group' is not available in this api version
+ (4) package.xml: Entity type 'Queue' is not available in this api version
+ (5) package.xml: Entity type 'Role' is not available in this api version
+ WARN [2015-07-09 19:13:29,057] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:13:29,067] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:17:05,790] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'triggers/testtrigger.trigger-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2015-07-09 19:17:06,290] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:17:06,300] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:17:06,310] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:08,574] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:08,579] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:13,633] (Utils.java:loadDocument:823) - Unable to load document: C:\Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\project1\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2015-07-09 19:40:15,743] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:15,743] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:15,753] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:16,793] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:16,813] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:16,826] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:18,005] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:18,015] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:18,025] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:19,048] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:19,068] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:19,078] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:20,083] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:20,093] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:20,113] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:40,772] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'BusinessProcess': Unable to get bean for id 'BusinessProcess'
+ WARN [2015-07-09 19:40:40,792] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CompactLayout': Unable to get bean for id 'CompactLayout'
+ WARN [2015-07-09 19:40:40,802] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CustomField': Unable to get bean for id 'CustomField'
+ WARN [2015-07-09 19:40:40,802] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CustomLabel': Unable to get bean for id 'CustomLabel'
+ WARN [2015-07-09 19:40:41,294] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:41,304] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:41,314] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:42,424] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:42,434] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:42,444] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:43,838] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:43,858] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:43,868] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:44,730] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:44,740] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FieldSet': Unable to get bean for id 'FieldSet'
+ WARN [2015-07-09 19:40:44,750] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:44,760] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ListView': Unable to get bean for id 'ListView'
+ WARN [2015-07-09 19:40:44,770] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'NamedFilter': Unable to get bean for id 'NamedFilter'
+ WARN [2015-07-09 19:40:44,780] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'RecordType': Unable to get bean for id 'RecordType'
+ WARN [2015-07-09 19:40:45,420] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:45,430] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:40:45,440] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 19:40:46,220] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SharingReason': Unable to get bean for id 'SharingReason'
+ WARN [2015-07-09 19:40:46,230] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ValidationRule': Unable to get bean for id 'ValidationRule'
+ WARN [2015-07-09 19:40:46,240] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WebLink': Unable to get bean for id 'WebLink'
+ WARN [2015-07-09 19:40:46,250] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowAlert': Unable to get bean for id 'WorkflowAlert'
+ WARN [2015-07-09 19:40:46,250] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowFieldUpdate': Unable to get bean for id 'WorkflowFieldUpdate'
+ WARN [2015-07-09 19:40:46,260] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowKnowledgePublish': Unable to get bean for id 'WorkflowKnowledgePublish'
+ WARN [2015-07-09 19:40:46,260] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowOutboundMessage': Unable to get bean for id 'WorkflowOutboundMessage'
+ WARN [2015-07-09 19:40:46,270] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowRule': Unable to get bean for id 'WorkflowRule'
+ WARN [2015-07-09 19:40:46,270] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowSend': Unable to get bean for id 'WorkflowSend'
+ WARN [2015-07-09 19:40:46,270] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowTask': Unable to get bean for id 'WorkflowTask'
+ WARN [2015-07-09 19:40:46,320] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:40:46,330] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:56:57,703] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'classes/TestClass1.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2015-07-09 19:56:58,225] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-09 19:56:58,225] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FlexiPage': Unable to get bean for id 'FlexiPage'
+ WARN [2015-07-09 19:56:58,235] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-09 20:20:16,057] (ConnectionFactory.java:clearCache:212) - Clearing the following cached connections
+ WARN [2015-07-09 20:20:16,067] (DescribeObjectRegistry.java:clearCache:657) - Clearing cached describes
+ WARN [2015-07-09 20:20:16,077] (MetadataFactory.java:clearCache:123) - Clearing the following cached metadata stubs

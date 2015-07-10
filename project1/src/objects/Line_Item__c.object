@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableReports>true</enableReports>
+    <fields>
+        <fullName>Invoice_statement__c</fullName>
+        <label>Invoice statement</label>
+        <referenceTo>Invoice_statement__c</referenceTo>
+        <relationshipLabel>Line Item</relationshipLabel>
+        <relationshipName>Line_Item</relationshipName>
+        <relationshipOrder>1</relationshipOrder>
+        <type>MasterDetail</type>
+    </fields>
+    <fields>
+        <fullName>Merchandise_name__c</fullName>
+        <label>Merchandise</label>
+        <referenceTo>Merchandise__c</referenceTo>
+        <relationshipLabel>Line Item</relationshipLabel>
+        <relationshipName>Line_Item</relationshipName>
+        <relationshipOrder>0</relationshipOrder>
+        <type>MasterDetail</type>
+    </fields>
+    <fields>
+        <fullName>Unit_Price__c</fullName>
+        <label>Unit Price</label>
+        <precision>18</precision>
+        <scale>2</scale>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Unit_Sold__c</fullName>
+        <label>Unit Sold</label>
+        <precision>18</precision>
+        <scale>0</scale>
+        <type>Number</type>
+    </fields>
+    <label>Line Item</label>
+    <nameField>
+        <label>Line Item Number</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Line Item</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ControlledByParent</sharingModel>
+</CustomObject>

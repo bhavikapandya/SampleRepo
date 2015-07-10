@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Recruitments details</description>
+    <enableReports>true</enableReports>
+    <fields>
+        <fullName>Address__c</fullName>
+        <description>Address entered</description>
+        <label>Address</label>
+        <length>32768</length>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>DateOfBirth__c</fullName>
+        <description>D. O. B is entererd</description>
+        <label>DateOfBirth</label>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Name__c</fullName>
+        <description>Name entered</description>
+        <label>Name</label>
+        <length>50</length>
+        <type>Text</type>
+    </fields>
+    <fields>
+        <fullName>Phone_no__c</fullName>
+        <description>number entered</description>
+        <label>Phone no.</label>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>Qualification__c</fullName>
+        <label>Qualification</label>
+        <picklist>
+            <picklistValues>
+                <fullName>B.E.</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>B.SC</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>M.C.A.</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>B.C.A</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>YearOfExperience__c</fullName>
+        <label>YearOfExperience</label>
+        <picklist>
+            <picklistValues>
+                <fullName>6 Months</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>1 YEAR+</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>1.5 YEAR+</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>2 YEAR+</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>3 YEAR+</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <type>Picklist</type>
+    </fields>
+    <label>Recruitment</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <displayFormat>REC-{0000}</displayFormat>
+        <label>Recruitments Name</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Recruitments</pluralLabel>
+    <recordTypes>
+        <fullName>Experience</fullName>
+        <active>true</active>
+        <description>Entry</description>
+        <label>Experience</label>
+        <picklistValues>
+            <picklist>Qualification__c</picklist>
+            <values>
+                <fullName>B%2EC%2EA</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B%2EE%2E</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B%2ESC</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>M%2EC%2EA%2E</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>YearOfExperience__c</picklist>
+            <values>
+                <fullName>1 YEAR%2B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>1%2E5 YEAR%2B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>2 YEAR%2B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>3 YEAR%2B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>6 Months</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Freshers</fullName>
+        <active>true</active>
+        <description>Entry</description>
+        <label>Freshers</label>
+        <picklistValues>
+            <picklist>Qualification__c</picklist>
+            <values>
+                <fullName>B%2EC%2EA</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B%2EE%2E</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B%2ESC</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>M%2EC%2EA%2E</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>YearOfExperience__c</picklist>
+            <values>
+                <fullName>1 YEAR%2B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>1%2E5 YEAR%2B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>2 YEAR%2B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>3 YEAR%2B</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>6 Months</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <searchLayouts>
+        <customTabListAdditionalFields>Name__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Phone_no__c</customTabListAdditionalFields>
+    </searchLayouts>
+    <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>PhoneNo</fullName>
+        <active>true</active>
+        <description>phone number is needed</description>
+        <errorConditionFormula>LEN( Phone_no__c ) &gt; 10  || LEN( Phone_no__c ) &lt; 10</errorConditionFormula>
+        <errorDisplayField>Phone_no__c</errorDisplayField>
+        <errorMessage>Phone No. should be 10 digit</errorMessage>
+    </validationRules>
+</CustomObject>
